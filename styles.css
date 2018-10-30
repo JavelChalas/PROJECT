@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color:red;
+}
+h2 {
+    font-size: 90px;
+
+}
+h1 {
+    font-size: 80px ;
+    border: dotted;
+    color: RED;
+}
+p { 
+    color:RED;
+}
+h1 {
+    font-family: 'Mali', cursive;
+}
+ol {
+    font-size: 91px;
+}
+body {
+    background: url('https://lh3.googleusercontent.com/YO_h7k8gUn2RKQ-Kdu2OA4p7Hkbqeq09NlNNDhe1c7Bqa_OXuvbC6mwGmr-HFVLfWv6NQ41NNDNjbczG_IZ2_uTTI6pDlj9g_mexyxqcBeUWVQp_kFB0uLyLxIHmPxW3zJ3_hS5fdkqN_KjAuRff2OLHOYIrKwIXwRu1fBPvYZ1B9BvRBaps-CqatT2oBiuSD3nCzDZZljZoCrBU2raGGWiK-5OdGxhb089oW_7NIfumD1zmVOu3mHt6csj7YFC-4HsCAikaS2CcRzREOrqtCypgE127jUB4RVdWsLcFREZIgd3yFz4bIdp_Aq4UxhVu0SiGOYSziIrBgPxrSxP5tvksJsioLzXa_DSuo3hprgudiW5DDu5uFmlCWaribnYcuKkP9X8WL-khDEFoitPDBCm4Pqeg8LXa30IsPj2rtYrmhBtkZU6A3VlwKDUTzePXVn__B8y4zB0oQp7qnhyP06ggyeME1lA-cXH3lE7euFJC6o1VnpYQ3Y8Ws6ARz30mRLlM1wJGyYpwPQetQpv9k-TJKhP8_ZuNMlttO4TnxVItGSF5WLFYpONP0ZzW0Qg9qcUPdynxnrKSC1aJyUCg_ZZvw65z3QTi1MnNJ8-9wWHbHQIUAfgJEPufMpkxSyjHoZIfmqDmJaEEJtnS8iwIpNYQY3S9MioJ_Nu9SxDhWTZKaJV3nsFR4M5j6IMNoJzEjh-fXd0z3FAR1NWN=w704-h938-no');
+}
+
+img {
+    opacity: 0.5;
+}
